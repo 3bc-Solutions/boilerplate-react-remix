@@ -3,4 +3,5 @@ build
 public
 .cache
 .env
-.db
+*.db
+*.db-journal
